@@ -1,0 +1,6 @@
+/home/bliq/Work/caffe/build/tools/caffe'  train --solver=/home/bliq/Work/Facial_Emotion_Recognition/emotion_solver.prototxt
+
+transform_param {
+  mean_file: "/home/bliq/Work/caffe/data/ilsvrc12/imagenet_mean.binaryproto"
+quit
+exit
